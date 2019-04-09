@@ -1,2 +1,2 @@
 # 411-MTP
-My first repository!
+Course Project
